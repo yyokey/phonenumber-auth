@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398176542122",
+    "firebase_url": "https://user-login-c9008-default-rtdb.firebaseio.com",
+    "project_id": "user-login-c9008",
+    "storage_bucket": "user-login-c9008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398176542122:android:ee209048f1bafba9f59fd3",
+        "android_client_info": {
+          "package_name": "com.example.tably"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398176542122-bfgk1ll98g24abvv27u1rfco7h1sdfot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqTeHid1cBw56eD-5GY7Z8opChaNNZC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398176542122-bfgk1ll98g24abvv27u1rfco7h1sdfot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
